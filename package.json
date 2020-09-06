@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "serve:mocro": "vue-cli-service serve --mode micro",
+    "serve:micro": "vue-cli-service serve --mode micro",
     "build": "vue-cli-service build --mode buildMIcro",
     "lint": "vue-cli-service lint"
   },
